@@ -17,7 +17,7 @@ This project focuses on analyzing Amazon e-commerce sales data and building an i
 * **Power BI Desktop**
 * **Power Query** (Data Cleaning)
 * **DAX** (Measures & KPIs)
-* **CSV Dataset** (Amazon Sale Report)
+* **CSV Dataset** (Amazon Sale Report)(https://www.kaggle.com/datasets/thedevastator/unlock-profits-with-e-commerce-sales-data)
 
 ## 🧹 Data Cleaning Steps
 
