@@ -49,7 +49,8 @@ This project focuses on analyzing Amazon e-commerce sales data and building an i
 * **Most orders are successfully shipped**, reflecting efficient fulfillment operations.
 
 ## 📷 Dashboard Preview
-dashboard01.png
+[Dashboard Screenshot](dashboard01.png)
+
 
 
 ## ✅ Conclusion
