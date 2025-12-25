@@ -48,6 +48,10 @@ This project focuses on analyzing Amazon e-commerce sales data and building an i
 * **Bengaluru, Hyderabad, and Mumbai dominate total sales**, indicating strong metro demand.
 * **Most orders are successfully shipped**, reflecting efficient fulfillment operations.
 
+## 📷 Dashboard Preview
+dashboard01.png
+
+
 ## ✅ Conclusion
 
 This dashboard provides a clear overview of business performance and supports data-driven decision-making through interactive visuals and KPIs.
